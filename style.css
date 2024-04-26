@@ -1,0 +1,13 @@
+div{
+    width: 218px;
+    height: 218px;
+    background-color: red;
+    float: left;
+}
+.blue{
+    width: 218px;
+    height: 218px;
+    background-color: blue;
+    float: right;
+    
+}
